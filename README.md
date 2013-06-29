@@ -11,4 +11,4 @@ Requires a image capture devices recognised by Opencv i.e. webcam.
 Demononstrates joining images, trackbars, adding to text to image, FPS counter. 
 Developed with the help of numerous websites and documentation searches.
 
-[Opencv Documentation]http://docs.opencv.org/ is your friend. 
+[Opencv Documentation](http://docs.opencv.org/) is your friend. 
