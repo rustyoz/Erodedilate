@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Erodedilate", "Erodedilate\Erodedilate.vcxproj", "{42C84815-7289-4CE9-9E44-BB671C70E6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C84815-7289-4CE9-9E44-BB671C70E6C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42C84815-7289-4CE9-9E44-BB671C70E6C3}.Debug|Win32.Build.0 = Debug|Win32
+		{42C84815-7289-4CE9-9E44-BB671C70E6C3}.Release|Win32.ActiveCfg = Release|Win32
+		{42C84815-7289-4CE9-9E44-BB671C70E6C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
